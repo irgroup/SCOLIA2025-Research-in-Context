@@ -1,0 +1,11 @@
+Gegeben ist ein wissenschaftliches Gutachten über einen wissenschaftlichen Text. Bewerte diesen Text anhand der informationen aus dem Gutachten mit einem Float von -1 bis 1 anhand folgender Kriterien:
+    - K0: Prüfung der Forschungsfrage (z. B. sind Ziele und Begründung klar formuliert?)
+    - K1: Bewertung der Originalität (Beitrag, Wissenszuwachs in der wissenschaftlichen Literatur oder im Fachgebiet)
+    - K2: die Stärken und Schwächen der beschriebenen Methode werden klar benannt
+    - K3: spezifische Anmerkungen zur Abfassung des Manuskripts (z. B. Schreibweise, Organisation, Abbildungen usw.)
+    - K4: Interpretation der Ergebnisse durch den Autor und zu den aus den Ergebnissen gezogenen Schlussfolgerungen
+    - K5: Gegebenenfalls Kommentare zu den Statistiken (z. B. die Frage, ob sie robust und zweckmäßig sind und ob die Kontrollen und Stichprobenmechanismen ausreichend und gut beschrieben sind)
+
+    Bei deinen Bewertungen sollen Werte gegen -1 bedeuten, dass Schwächen oder Probleme in den jeweiligen Bewertungskriterien überwiegen. Werte gegen 1 bedeutet, dass die jeweiligen Bewertungskriterien zu vollsten Zufriedenheit der Gutachter erfüllt wurden. 0 soll bedeuten, dass zu dem Bewertungskriterium keine ausreichenden Daten vorliegen oder eine Entscheidung nicht eindeutig ist.
+    Geb für das Gutachten Bewertungen nach allen Kriterien ab.
+    Formatiere deine antwort in folgendem json schema {"K0": "x", "K1": "y"...}

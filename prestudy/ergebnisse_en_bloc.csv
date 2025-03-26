@@ -1,0 +1,494 @@
+article_id,article_title,retry,gutachten_id,K0,K1,K2,K3,K4,K5,mean
+0,KI-Modell zur Vorhersage von Hochwasser in Flüssen,0,0,0.8,0.6,0.4,0.7,0.5,0.3,0.56
+0,KI-Modell zur Vorhersage von Hochwasser in Flüssen,0,1,0.9,0.7,0.6,0.5,0.4,0.4,0.59
+0,KI-Modell zur Vorhersage von Hochwasser in Flüssen,0,2,0.7,0.5,-0.2,0.3,-0.1,0.2,0.23
+0,KI-Modell zur Vorhersage von Hochwasser in Flüssen,1,0,-0.5,-0.2,0.2,0.6,-0.3,0.3,0.02
+0,KI-Modell zur Vorhersage von Hochwasser in Flüssen,1,1,0.8,0.6,0.7,0.6,0.7,0.5,0.66
+0,KI-Modell zur Vorhersage von Hochwasser in Flüssen,1,2,0.4,-0.2,-0.3,0.3,-0.4,-0.5,-0.11
+0,KI-Modell zur Vorhersage von Hochwasser in Flüssen,2,0,1.0,-0.5,0.5,0.0,-0.5,0.5,0.16
+0,KI-Modell zur Vorhersage von Hochwasser in Flüssen,2,1,1.0,0.5,1.0,0.5,1.0,0.5,0.76
+0,KI-Modell zur Vorhersage von Hochwasser in Flüssen,2,2,0.5,0.5,-0.5,-0.5,-0.5,-0.5,-0.16
+1,Global E-Waste Monitor der UN,0,0,1.0,1.0,1.0,1.0,1.0,0.5,0.92
+1,Global E-Waste Monitor der UN,0,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1,Global E-Waste Monitor der UN,0,2,1.0,1.0,0.5,0.5,0.5,1.0,0.76
+1,Global E-Waste Monitor der UN,0,3,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1,Global E-Waste Monitor der UN,0,4,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1,Global E-Waste Monitor der UN,1,0,1.0,1.0,0.8,0.8,0.8,0.5,0.82
+1,Global E-Waste Monitor der UN,1,1,1.0,1.0,0.9,0.8,0.9,0.7,0.89
+1,Global E-Waste Monitor der UN,1,2,1.0,1.0,0.7,0.7,0.8,0.6,0.8
+1,Global E-Waste Monitor der UN,1,3,1.0,1.0,0.8,0.8,0.9,0.6,0.85
+1,Global E-Waste Monitor der UN,1,4,1.0,1.0,0.8,0.9,0.9,0.7,0.89
+1,Global E-Waste Monitor der UN,2,0,1.0,1.0,0.5,0.5,0.5,0.5,0.67
+1,Global E-Waste Monitor der UN,2,1,1.0,1.0,1.0,0.5,1.0,1.0,0.92
+1,Global E-Waste Monitor der UN,2,2,1.0,1.0,0.0,0.5,0.5,0.0,0.49
+1,Global E-Waste Monitor der UN,2,3,0.0,1.0,0.0,0.5,1.0,0.5,0.49
+1,Global E-Waste Monitor der UN,2,4,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2,WMO-Bericht zum Zustand des Klimas 2023: Wie geht es weiter?,0,0,1.0,1.0,1.0,0.5,0.5,0.5,0.76
+2,WMO-Bericht zum Zustand des Klimas 2023: Wie geht es weiter?,0,1,1.0,0.5,-0.5,0.0,-0.5,-0.5,0.0
+2,WMO-Bericht zum Zustand des Klimas 2023: Wie geht es weiter?,0,2,1.0,1.0,0.5,0.5,1.0,0.0,0.67
+2,WMO-Bericht zum Zustand des Klimas 2023: Wie geht es weiter?,0,3,1.0,0.5,0.0,-0.5,0.5,0.5,0.33
+2,WMO-Bericht zum Zustand des Klimas 2023: Wie geht es weiter?,1,0,0.9,1.0,0.8,0.7,0.6,0.5,0.76
+2,WMO-Bericht zum Zustand des Klimas 2023: Wie geht es weiter?,1,1,0.7,0.8,-0.3,0.6,0.6,-0.5,0.31
+2,WMO-Bericht zum Zustand des Klimas 2023: Wie geht es weiter?,1,2,1.0,0.9,-0.2,0.8,0.7,0.5,0.62
+2,WMO-Bericht zum Zustand des Klimas 2023: Wie geht es weiter?,1,3,0.8,0.8,0.2,0.7,0.6,0.4,0.59
+2,WMO-Bericht zum Zustand des Klimas 2023: Wie geht es weiter?,2,0,1.0,1.0,0.8,0.8,0.7,0.6,0.82
+2,WMO-Bericht zum Zustand des Klimas 2023: Wie geht es weiter?,2,1,1.0,1.0,0.2,0.6,0.5,0.5,0.64
+2,WMO-Bericht zum Zustand des Klimas 2023: Wie geht es weiter?,2,2,1.0,1.0,0.5,0.7,0.8,0.6,0.77
+2,WMO-Bericht zum Zustand des Klimas 2023: Wie geht es weiter?,2,3,1.0,1.0,0.5,0.8,0.6,0.5,0.74
+3,Sterblichkeit bei Intervallfasten,0,0,0.8,0.6,0.7,0.4,0.5,0.3,0.56
+3,Sterblichkeit bei Intervallfasten,1,0,0.8,0.7,0.5,0.6,0.4,0.4,0.58
+3,Sterblichkeit bei Intervallfasten,2,0,0.8,0.7,0.6,0.4,0.5,0.3,0.56
+4,Methan-Emissionen aus Lecks bei Förderung größer als angenommen,0,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+4,Methan-Emissionen aus Lecks bei Förderung größer als angenommen,0,1,1.0,1.0,0.0,0.5,1.0,0.0,0.59
+4,Methan-Emissionen aus Lecks bei Förderung größer als angenommen,0,2,1.0,1.0,0.5,1.0,1.0,0.5,0.84
+4,Methan-Emissionen aus Lecks bei Förderung größer als angenommen,0,3,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+4,Methan-Emissionen aus Lecks bei Förderung größer als angenommen,1,0,1.0,1.0,0.5,1.0,1.0,1.0,0.92
+4,Methan-Emissionen aus Lecks bei Förderung größer als angenommen,1,1,1.0,1.0,0.5,0.5,1.0,1.0,0.84
+4,Methan-Emissionen aus Lecks bei Förderung größer als angenommen,1,2,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+4,Methan-Emissionen aus Lecks bei Förderung größer als angenommen,1,3,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+4,Methan-Emissionen aus Lecks bei Förderung größer als angenommen,2,0,1.0,1.0,0.5,1.0,1.0,0.5,0.84
+4,Methan-Emissionen aus Lecks bei Förderung größer als angenommen,2,1,1.0,1.0,0.0,0.5,1.0,1.0,0.76
+4,Methan-Emissionen aus Lecks bei Förderung größer als angenommen,2,2,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+4,Methan-Emissionen aus Lecks bei Förderung größer als angenommen,2,3,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+5,Einsatz von Rezyklaten bei Kunststoffen: Helfen neue Recyclingverfahren?,0,0,-0.5,-0.7,0.0,-0.3,-0.5,-0.5,-0.41
+5,Einsatz von Rezyklaten bei Kunststoffen: Helfen neue Recyclingverfahren?,0,1,0.7,0.8,0.5,0.0,0.6,0.5,0.53
+5,Einsatz von Rezyklaten bei Kunststoffen: Helfen neue Recyclingverfahren?,1,0,-0.5,0.5,-0.5,0.0,-0.5,0.0,-0.16
+5,Einsatz von Rezyklaten bei Kunststoffen: Helfen neue Recyclingverfahren?,1,1,0.8,0.6,0.5,0.5,0.7,0.5,0.61
+5,Einsatz von Rezyklaten bei Kunststoffen: Helfen neue Recyclingverfahren?,2,0,-0.5,0.2,0.5,0.2,-0.4,0.0,0.0
+5,Einsatz von Rezyklaten bei Kunststoffen: Helfen neue Recyclingverfahren?,2,1,0.8,0.3,0.7,0.0,0.7,0.5,0.49
+6,Organoide aus Fruchtwasserzellen,1,0,-0.5,-0.5,-1.0,-0.5,-0.5,-0.5,-0.59
+6,Organoide aus Fruchtwasserzellen,1,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+6,Organoide aus Fruchtwasserzellen,1,2,1.0,0.5,0.5,0.5,1.0,0.5,0.67
+6,Organoide aus Fruchtwasserzellen,1,3,0.5,1.0,0.5,0.5,0.0,0.0,0.41
+6,Organoide aus Fruchtwasserzellen,2,0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.49
+6,Organoide aus Fruchtwasserzellen,2,1,1.0,0.5,1.0,1.0,1.0,0.5,0.84
+6,Organoide aus Fruchtwasserzellen,2,2,0.5,1.0,0.5,0.5,0.5,0.0,0.49
+6,Organoide aus Fruchtwasserzellen,2,3,0.5,0.5,0.5,0.0,0.0,-0.5,0.16
+7,Plazenta-Organoid als Modell für Plazenta-Entwicklung,0,0,0.8,0.7,0.6,0.5,0.7,0.7,0.67
+7,Plazenta-Organoid als Modell für Plazenta-Entwicklung,0,1,0.8,0.7,0.8,0.6,0.7,0.8,0.74
+7,Plazenta-Organoid als Modell für Plazenta-Entwicklung,0,2,0.7,0.6,0.8,0.6,0.7,0.8,0.71
+7,Plazenta-Organoid als Modell für Plazenta-Entwicklung,0,3,0.8,0.7,0.6,0.6,0.7,0.7,0.69
+7,Plazenta-Organoid als Modell für Plazenta-Entwicklung,0,4,0.7,0.6,0.7,0.6,0.7,0.7,0.67
+7,Plazenta-Organoid als Modell für Plazenta-Entwicklung,1,0,0.8,0.7,1.0,0.5,0.6,0.7,0.72
+7,Plazenta-Organoid als Modell für Plazenta-Entwicklung,1,1,1.0,0.9,0.9,0.8,0.8,0.9,0.89
+7,Plazenta-Organoid als Modell für Plazenta-Entwicklung,1,2,0.9,0.8,0.8,0.7,0.6,0.7,0.76
+7,Plazenta-Organoid als Modell für Plazenta-Entwicklung,1,3,0.9,0.8,0.8,0.7,0.7,0.7,0.77
+7,Plazenta-Organoid als Modell für Plazenta-Entwicklung,1,4,0.9,0.7,0.8,0.7,0.8,0.8,0.79
+7,Plazenta-Organoid als Modell für Plazenta-Entwicklung,2,0,0.8,0.6,0.7,-0.1,0.5,0.2,0.44
+7,Plazenta-Organoid als Modell für Plazenta-Entwicklung,2,1,0.9,0.7,0.8,0.2,0.6,0.5,0.62
+7,Plazenta-Organoid als Modell für Plazenta-Entwicklung,2,2,0.7,0.5,0.8,0.1,0.3,0.6,0.49
+7,Plazenta-Organoid als Modell für Plazenta-Entwicklung,2,3,0.8,0.6,0.7,0.3,0.5,0.4,0.56
+7,Plazenta-Organoid als Modell für Plazenta-Entwicklung,2,4,0.8,0.6,0.9,0.5,0.6,0.8,0.71
+8,Mini-Tumoren sagen Ansprechen auf Krebs-Therapie vorher,0,0,1.0,1.0,0.75,1.0,1.0,1.0,0.96
+8,Mini-Tumoren sagen Ansprechen auf Krebs-Therapie vorher,0,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+8,Mini-Tumoren sagen Ansprechen auf Krebs-Therapie vorher,0,2,0.5,1.0,1.0,1.0,1.0,1.0,0.92
+8,Mini-Tumoren sagen Ansprechen auf Krebs-Therapie vorher,0,3,1.0,0.5,1.0,1.0,0.25,0.5,0.71
+8,Mini-Tumoren sagen Ansprechen auf Krebs-Therapie vorher,1,0,1.0,1.0,1.0,1.0,1.0,0.8,0.97
+8,Mini-Tumoren sagen Ansprechen auf Krebs-Therapie vorher,1,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+8,Mini-Tumoren sagen Ansprechen auf Krebs-Therapie vorher,1,2,1.0,0.5,1.0,1.0,1.0,1.0,0.92
+8,Mini-Tumoren sagen Ansprechen auf Krebs-Therapie vorher,1,3,1.0,0.5,1.0,1.0,0.5,0.5,0.76
+8,Mini-Tumoren sagen Ansprechen auf Krebs-Therapie vorher,2,0,1.0,0.8,0.9,0.7,0.8,0.7,0.82
+8,Mini-Tumoren sagen Ansprechen auf Krebs-Therapie vorher,2,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+8,Mini-Tumoren sagen Ansprechen auf Krebs-Therapie vorher,2,2,1.0,0.7,1.0,0.8,0.8,0.8,0.85
+8,Mini-Tumoren sagen Ansprechen auf Krebs-Therapie vorher,2,3,1.0,0.6,0.6,0.7,0.5,0.4,0.64
+9,Studie untersucht Übertragung von Alzheimer durch Knochenmarkspende bei Mäusen,0,0,0.7,0.5,0.4,0.6,0.5,0.3,0.49
+9,Studie untersucht Übertragung von Alzheimer durch Knochenmarkspende bei Mäusen,0,1,0.8,0.7,0.8,0.7,0.7,0.6,0.72
+9,Studie untersucht Übertragung von Alzheimer durch Knochenmarkspende bei Mäusen,0,2,0.6,0.6,0.5,0.7,0.6,0.5,0.59
+9,Studie untersucht Übertragung von Alzheimer durch Knochenmarkspende bei Mäusen,1,0,0.8,0.5,0.2,0.5,0.5,0.5,0.49
+9,Studie untersucht Übertragung von Alzheimer durch Knochenmarkspende bei Mäusen,1,1,0.9,0.6,0.7,0.7,0.8,0.6,0.72
+9,Studie untersucht Übertragung von Alzheimer durch Knochenmarkspende bei Mäusen,1,2,0.8,0.5,0.3,0.6,0.6,0.6,0.58
+10,Aufforstung in Afrika häufig Gefahr für Savannen,0,0,0.8,0.2,0.6,0.7,0.6,0.5,0.58
+10,Aufforstung in Afrika häufig Gefahr für Savannen,0,1,1.0,0.4,0.2,0.7,0.3,0.4,0.49
+10,Aufforstung in Afrika häufig Gefahr für Savannen,1,0,1.0,0.3,0.7,1.0,0.5,0.7,0.71
+10,Aufforstung in Afrika häufig Gefahr für Savannen,1,1,1.0,0.0,0.5,0.0,0.0,0.5,0.33
+10,Aufforstung in Afrika häufig Gefahr für Savannen,2,0,0.8,0.0,0.5,0.7,0.6,0.4,0.49
+10,Aufforstung in Afrika häufig Gefahr für Savannen,2,1,0.6,-0.2,0.3,0.3,0.1,0.2,0.21
+11,Effekt von resistenter Stärke beim Abnehmen,0,0,1.0,0.8,0.7,1.0,0.9,1.0,0.9
+11,Effekt von resistenter Stärke beim Abnehmen,0,1,1.0,1.0,0.7,1.0,1.0,0.8,0.92
+11,Effekt von resistenter Stärke beim Abnehmen,0,2,1.0,0.8,0.5,0.5,0.7,0.3,0.64
+11,Effekt von resistenter Stärke beim Abnehmen,0,3,0.8,0.5,0.4,0.6,0.6,0.4,0.56
+11,Effekt von resistenter Stärke beim Abnehmen,1,0,1.0,1.0,0.5,1.0,1.0,0.5,0.84
+11,Effekt von resistenter Stärke beim Abnehmen,1,1,1.0,1.0,0.5,1.0,0.5,1.0,0.84
+11,Effekt von resistenter Stärke beim Abnehmen,1,2,1.0,1.0,0.5,0.0,0.5,0.5,0.59
+11,Effekt von resistenter Stärke beim Abnehmen,1,3,0.5,0.5,0.5,0.5,0.5,0.0,0.41
+11,Effekt von resistenter Stärke beim Abnehmen,2,0,1.0,1.0,0.8,0.6,1.0,0.6,0.84
+11,Effekt von resistenter Stärke beim Abnehmen,2,1,1.0,0.8,1.0,0.7,0.9,0.9,0.89
+11,Effekt von resistenter Stärke beim Abnehmen,2,2,1.0,0.7,0.6,0.8,0.6,0.7,0.74
+11,Effekt von resistenter Stärke beim Abnehmen,2,3,0.9,0.7,0.8,0.6,0.7,0.7,0.74
+12,Umweltchemikalien beeinträchtigen die Entwicklung wichtiger Hirnzellen,0,0,0.9,1.0,0.7,0.8,0.9,0.7,0.84
+12,Umweltchemikalien beeinträchtigen die Entwicklung wichtiger Hirnzellen,0,1,0.9,0.9,0.9,0.9,0.8,0.8,0.87
+12,Umweltchemikalien beeinträchtigen die Entwicklung wichtiger Hirnzellen,0,2,0.8,0.9,0.7,0.8,0.6,0.6,0.74
+12,Umweltchemikalien beeinträchtigen die Entwicklung wichtiger Hirnzellen,0,3,0.8,0.9,0.7,0.9,0.8,0.9,0.84
+12,Umweltchemikalien beeinträchtigen die Entwicklung wichtiger Hirnzellen,0,4,0.9,1.0,0.8,0.8,0.8,0.9,0.87
+12,Umweltchemikalien beeinträchtigen die Entwicklung wichtiger Hirnzellen,1,0,1.0,1.0,0.5,0.5,0.5,0.5,0.67
+12,Umweltchemikalien beeinträchtigen die Entwicklung wichtiger Hirnzellen,1,1,1.0,1.0,0.5,1.0,1.0,1.0,0.92
+12,Umweltchemikalien beeinträchtigen die Entwicklung wichtiger Hirnzellen,1,2,1.0,1.0,0.5,0.5,0.5,0.5,0.67
+12,Umweltchemikalien beeinträchtigen die Entwicklung wichtiger Hirnzellen,1,3,0.5,0.5,0.0,0.5,1.0,0.5,0.49
+12,Umweltchemikalien beeinträchtigen die Entwicklung wichtiger Hirnzellen,1,4,1.0,1.0,0.5,0.5,1.0,1.0,0.84
+12,Umweltchemikalien beeinträchtigen die Entwicklung wichtiger Hirnzellen,2,0,1.0,1.0,1.0,1.0,1.0,0.5,0.92
+12,Umweltchemikalien beeinträchtigen die Entwicklung wichtiger Hirnzellen,2,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+12,Umweltchemikalien beeinträchtigen die Entwicklung wichtiger Hirnzellen,2,2,1.0,1.0,0.5,1.0,0.5,0.5,0.76
+12,Umweltchemikalien beeinträchtigen die Entwicklung wichtiger Hirnzellen,2,3,1.0,1.0,1.0,1.0,0.75,1.0,0.96
+12,Umweltchemikalien beeinträchtigen die Entwicklung wichtiger Hirnzellen,2,4,1.0,1.0,0.75,1.0,1.0,1.0,0.96
+13,Extremistische und alternative Youtube-Videos wenig gesehen,0,0,1.0,1.0,1.0,1.0,1.0,0.5,0.92
+13,Extremistische und alternative Youtube-Videos wenig gesehen,0,1,1.0,1.0,1.0,1.0,1.0,0.5,0.92
+13,Extremistische und alternative Youtube-Videos wenig gesehen,0,2,1.0,1.0,0.5,1.0,1.0,0.5,0.84
+13,Extremistische und alternative Youtube-Videos wenig gesehen,1,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+13,Extremistische und alternative Youtube-Videos wenig gesehen,1,1,1.0,1.0,0.5,1.0,1.0,1.0,0.92
+13,Extremistische und alternative Youtube-Videos wenig gesehen,1,2,1.0,1.0,0.5,1.0,1.0,1.0,0.92
+13,Extremistische und alternative Youtube-Videos wenig gesehen,2,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+13,Extremistische und alternative Youtube-Videos wenig gesehen,2,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+13,Extremistische und alternative Youtube-Videos wenig gesehen,2,2,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+14,Ethikrat zur Klimagerechtigkeit,0,0,1.0,0.8,0.7,0.9,0.9,0.8,0.85
+14,Ethikrat zur Klimagerechtigkeit,0,1,1.0,0.7,0.8,0.8,0.8,0.7,0.8
+14,Ethikrat zur Klimagerechtigkeit,0,2,1.0,0.9,0.9,0.8,0.7,0.8,0.85
+14,Ethikrat zur Klimagerechtigkeit,0,3,1.0,0.8,0.9,0.9,0.9,0.8,0.89
+14,Ethikrat zur Klimagerechtigkeit,0,4,1.0,0.9,0.8,0.8,0.7,0.9,0.85
+14,Ethikrat zur Klimagerechtigkeit,0,5,1.0,0.8,0.9,0.9,0.8,0.8,0.87
+14,Ethikrat zur Klimagerechtigkeit,1,0,1.0,0.8,0.6,0.8,0.7,0.9,0.8
+14,Ethikrat zur Klimagerechtigkeit,1,1,1.0,0.9,0.7,0.7,0.8,0.8,0.82
+14,Ethikrat zur Klimagerechtigkeit,1,2,1.0,0.9,0.8,0.8,0.7,0.9,0.85
+14,Ethikrat zur Klimagerechtigkeit,1,3,1.0,0.9,0.8,0.8,0.8,0.9,0.87
+14,Ethikrat zur Klimagerechtigkeit,1,4,1.0,0.9,0.8,0.8,0.8,0.9,0.87
+14,Ethikrat zur Klimagerechtigkeit,1,5,1.0,0.9,0.8,0.8,0.8,0.9,0.87
+14,Ethikrat zur Klimagerechtigkeit,2,0,1.0,1.0,1.0,0.8,1.0,0.8,0.93
+14,Ethikrat zur Klimagerechtigkeit,2,1,1.0,0.9,0.9,0.8,1.0,0.9,0.92
+14,Ethikrat zur Klimagerechtigkeit,2,2,1.0,1.0,0.8,0.9,0.8,0.9,0.9
+14,Ethikrat zur Klimagerechtigkeit,2,3,1.0,1.0,0.9,0.8,0.9,1.0,0.93
+14,Ethikrat zur Klimagerechtigkeit,2,4,1.0,1.0,0.9,0.8,0.9,1.0,0.93
+14,Ethikrat zur Klimagerechtigkeit,2,5,0.9,1.0,0.8,0.9,0.8,0.9,0.89
+15,"Süßstoff Aspartam laut WHO „möglicherweise krebserregend"" ",0,0,0.9,0.8,0.8,0.7,0.7,0.7,0.77
+15,"Süßstoff Aspartam laut WHO „möglicherweise krebserregend"" ",1,0,1.0,1.0,0.8,0.9,1.0,0.7,0.9
+15,"Süßstoff Aspartam laut WHO „möglicherweise krebserregend"" ",2,0,1.0,1.0,0.8,0.7,0.9,0.8,0.87
+16,Auswirkungen industrieller Fischerei auf den Klimawandel,0,0,-0.5,0.5,-0.5,0.5,0.0,-0.5,-0.08
+16,Auswirkungen industrieller Fischerei auf den Klimawandel,0,1,0.5,0.5,0.0,0.0,0.0,0.0,0.16
+16,Auswirkungen industrieller Fischerei auf den Klimawandel,0,2,1.0,0.5,0.5,0.5,-0.5,0.5,0.41
+16,Auswirkungen industrieller Fischerei auf den Klimawandel,0,3,0.5,0.5,0.5,0.0,-0.5,0.5,0.24
+16,Auswirkungen industrieller Fischerei auf den Klimawandel,0,4,0.5,1.0,0.5,0.5,0.0,0.0,0.41
+16,Auswirkungen industrieller Fischerei auf den Klimawandel,1,0,-0.5,0.5,-0.8,0.2,-0.4,-0.7,-0.28
+16,Auswirkungen industrieller Fischerei auf den Klimawandel,1,1,0.3,0.4,-0.5,0.0,0.0,-0.6,-0.07
+16,Auswirkungen industrieller Fischerei auf den Klimawandel,1,2,0.5,0.6,0.0,0.3,0.0,0.0,0.23
+16,Auswirkungen industrieller Fischerei auf den Klimawandel,1,3,0.5,0.6,-0.5,0.0,0.0,-0.5,0.02
+16,Auswirkungen industrieller Fischerei auf den Klimawandel,1,4,0.4,0.5,0.2,0.3,0.0,-0.5,0.15
+16,Auswirkungen industrieller Fischerei auf den Klimawandel,2,0,-0.5,0.5,-0.5,0.0,0.0,-0.5,-0.16
+16,Auswirkungen industrieller Fischerei auf den Klimawandel,2,1,0.0,0.0,0.0,0.5,0.0,0.0,0.08
+16,Auswirkungen industrieller Fischerei auf den Klimawandel,2,2,0.5,0.5,0.0,0.0,0.5,0.0,0.24
+16,Auswirkungen industrieller Fischerei auf den Klimawandel,2,3,1.0,1.0,0.5,0.0,-0.5,-0.5,0.24
+16,Auswirkungen industrieller Fischerei auf den Klimawandel,2,4,0.5,0.5,0.5,0.0,0.5,0.0,0.33
+17,Online-Verhaltenstherapie günstiger und ähnlich wirksam wie Standardtherapien,0,0,1.0,1.0,0.8,0.8,1.0,0.8,0.9
+17,Online-Verhaltenstherapie günstiger und ähnlich wirksam wie Standardtherapien,0,1,-0.8,-0.8,-0.8,-0.8,-0.8,-0.8,-0.8
+17,Online-Verhaltenstherapie günstiger und ähnlich wirksam wie Standardtherapien,0,2,0.8,0.8,0.8,0.0,0.0,0.0,0.39
+17,Online-Verhaltenstherapie günstiger und ähnlich wirksam wie Standardtherapien,0,3,1.0,1.0,0.8,1.0,1.0,0.8,0.93
+17,Online-Verhaltenstherapie günstiger und ähnlich wirksam wie Standardtherapien,1,0,0.9,1.0,0.8,1.0,0.9,0.7,0.89
+17,Online-Verhaltenstherapie günstiger und ähnlich wirksam wie Standardtherapien,1,1,0.7,-0.5,-0.7,0.5,-0.6,-0.8,-0.23
+17,Online-Verhaltenstherapie günstiger und ähnlich wirksam wie Standardtherapien,1,2,0.8,0.9,0.6,0.7,0.5,0.0,0.59
+17,Online-Verhaltenstherapie günstiger und ähnlich wirksam wie Standardtherapien,1,3,1.0,0.9,0.8,0.8,0.9,0.6,0.84
+17,Online-Verhaltenstherapie günstiger und ähnlich wirksam wie Standardtherapien,2,0,1.0,0.8,0.7,0.6,0.9,0.7,0.79
+17,Online-Verhaltenstherapie günstiger und ähnlich wirksam wie Standardtherapien,2,1,1.0,-0.5,-0.6,-0.2,-0.7,-0.8,-0.29
+17,Online-Verhaltenstherapie günstiger und ähnlich wirksam wie Standardtherapien,2,2,1.0,0.7,0.6,0.0,0.5,0.3,0.53
+17,Online-Verhaltenstherapie günstiger und ähnlich wirksam wie Standardtherapien,2,3,1.0,0.8,0.7,0.5,0.6,0.5,0.69
+18,Hoher Fructose-Anteil in Sirup lässt Darmpolypen von Mäusen wachsen,0,0,-0.5,-0.5,0.0,0.5,0.0,0.0,-0.08
+18,Hoher Fructose-Anteil in Sirup lässt Darmpolypen von Mäusen wachsen,0,1,0.0,0.5,-0.5,0.0,-0.5,-0.5,-0.16
+18,Hoher Fructose-Anteil in Sirup lässt Darmpolypen von Mäusen wachsen,1,0,-0.5,0.0,-0.5,0.0,-0.5,0.0,-0.24
+18,Hoher Fructose-Anteil in Sirup lässt Darmpolypen von Mäusen wachsen,1,1,0.5,0.5,-0.5,0.0,-0.5,-0.5,-0.08
+18,Hoher Fructose-Anteil in Sirup lässt Darmpolypen von Mäusen wachsen,2,0,-0.5,-0.5,-0.5,0.0,-0.5,0.0,-0.33
+18,Hoher Fructose-Anteil in Sirup lässt Darmpolypen von Mäusen wachsen,2,1,0.5,0.0,-0.5,0.5,-0.5,-0.5,-0.08
+19,Schwangerschaftskomplikationen erhöhen genetisch bedingtes Risiko für Schizophrenie,0,0,-0.5,-0.5,-0.8,0.0,-0.9,-0.9,-0.61
+19,Schwangerschaftskomplikationen erhöhen genetisch bedingtes Risiko für Schizophrenie,0,1,0.2,-0.5,-0.5,0.0,-0.5,-0.8,-0.34
+19,Schwangerschaftskomplikationen erhöhen genetisch bedingtes Risiko für Schizophrenie,0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,Schwangerschaftskomplikationen erhöhen genetisch bedingtes Risiko für Schizophrenie,2,0,-0.8,-0.5,-0.7,0.0,-0.7,-0.9,-0.61
+19,Schwangerschaftskomplikationen erhöhen genetisch bedingtes Risiko für Schizophrenie,2,1,-0.5,-0.3,-0.6,0.0,-0.4,-0.5,-0.38
+19,Schwangerschaftskomplikationen erhöhen genetisch bedingtes Risiko für Schizophrenie,2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,Erkältungsviren kommen wie MERS-Coronavirus von Dromedaren,0,0,1.0,0.5,1.0,1.0,1.0,0.5,0.84
+20,Erkältungsviren kommen wie MERS-Coronavirus von Dromedaren,0,1,1.0,0.0,1.0,1.0,0.5,0.5,0.67
+20,Erkältungsviren kommen wie MERS-Coronavirus von Dromedaren,0,2,1.0,-0.5,1.0,1.0,0.0,0.5,0.49
+20,Erkältungsviren kommen wie MERS-Coronavirus von Dromedaren,0,3,1.0,-0.5,1.0,1.0,0.0,0.0,0.41
+20,Erkältungsviren kommen wie MERS-Coronavirus von Dromedaren,1,0,0.7,0.5,0.8,0.7,0.9,0.6,0.71
+20,Erkältungsviren kommen wie MERS-Coronavirus von Dromedaren,1,1,1.0,0.6,0.8,0.8,0.4,0.8,0.74
+20,Erkältungsviren kommen wie MERS-Coronavirus von Dromedaren,1,2,0.3,-0.5,0.7,0.6,0.3,0.5,0.31
+20,Erkältungsviren kommen wie MERS-Coronavirus von Dromedaren,1,3,1.0,0.7,0.6,0.5,0.3,0.4,0.59
+20,Erkältungsviren kommen wie MERS-Coronavirus von Dromedaren,2,0,1.0,0.8,0.9,0.8,0.8,0.7,0.84
+20,Erkältungsviren kommen wie MERS-Coronavirus von Dromedaren,2,1,1.0,0.5,1.0,0.8,0.8,0.8,0.82
+20,Erkältungsviren kommen wie MERS-Coronavirus von Dromedaren,2,2,1.0,-0.5,0.5,0.8,0.0,0.0,0.29
+20,Erkältungsviren kommen wie MERS-Coronavirus von Dromedaren,2,3,1.0,0.0,0.5,0.0,0.5,0.5,0.41
+21,Sterblichkeitsrate nach Behandlung durch Ärztin oder Arzt,0,0,0.8,0.7,0.9,0.6,0.7,0.9,0.77
+21,Sterblichkeitsrate nach Behandlung durch Ärztin oder Arzt,0,1,0.9,0.8,0.8,0.7,0.7,0.8,0.79
+21,Sterblichkeitsrate nach Behandlung durch Ärztin oder Arzt,0,2,1.0,0.9,0.8,0.8,0.9,0.8,0.87
+21,Sterblichkeitsrate nach Behandlung durch Ärztin oder Arzt,0,3,0.9,0.8,0.8,0.8,0.9,0.8,0.84
+21,Sterblichkeitsrate nach Behandlung durch Ärztin oder Arzt,1,0,1.0,0.8,0.8,0.6,0.7,0.7,0.77
+21,Sterblichkeitsrate nach Behandlung durch Ärztin oder Arzt,1,1,1.0,0.9,0.9,0.7,0.7,0.8,0.84
+21,Sterblichkeitsrate nach Behandlung durch Ärztin oder Arzt,1,2,1.0,1.0,0.9,0.8,0.7,0.8,0.87
+21,Sterblichkeitsrate nach Behandlung durch Ärztin oder Arzt,1,3,1.0,0.9,0.9,0.7,0.7,0.9,0.85
+21,Sterblichkeitsrate nach Behandlung durch Ärztin oder Arzt,2,0,1.0,0.7,0.5,0.5,0.5,0.3,0.59
+21,Sterblichkeitsrate nach Behandlung durch Ärztin oder Arzt,2,1,1.0,0.8,0.7,0.7,0.6,0.5,0.72
+21,Sterblichkeitsrate nach Behandlung durch Ärztin oder Arzt,2,2,1.0,0.9,0.8,0.7,0.8,0.5,0.79
+21,Sterblichkeitsrate nach Behandlung durch Ärztin oder Arzt,2,3,1.0,0.9,0.8,0.7,0.8,0.6,0.8
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,0,0,1.0,1.0,1.0,0.5,0.8,0.7,0.84
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,0,1,1.0,1.0,0.8,0.5,0.5,0.5,0.72
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,0,2,1.0,1.0,0.7,0.5,0.8,0.5,0.76
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,0,3,1.0,1.0,1.0,0.5,0.8,0.7,0.84
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,0,4,1.0,1.0,0.9,0.5,0.5,0.6,0.76
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,0,5,0.9,1.0,0.6,0.5,0.5,0.5,0.67
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,0,6,1.0,1.0,0.7,0.5,0.9,0.5,0.77
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,0,7,1.0,1.0,0.7,0.5,0.5,0.6,0.72
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,1,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,1,1,1.0,1.0,1.0,1.0,0.5,0.5,0.84
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,1,2,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,1,3,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,1,4,1.0,1.0,1.0,1.0,0.5,1.0,0.92
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,1,5,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,1,6,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,1,7,1.0,1.0,1.0,1.0,0.5,1.0,0.92
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,2,0,1.0,1.0,0.8,0.9,0.9,0.7,0.89
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,2,1,1.0,1.0,0.8,0.8,0.8,0.7,0.85
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,2,2,1.0,0.9,0.8,0.9,0.8,0.7,0.85
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,2,3,1.0,0.9,0.8,0.8,0.9,0.7,0.85
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,2,4,1.0,0.9,0.8,0.8,0.8,0.7,0.84
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,2,5,1.0,0.9,0.8,0.8,0.8,0.7,0.84
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,2,6,1.0,0.9,0.8,0.8,0.8,0.7,0.84
+22,IQWiG-Gutachten zu Biomarker-Tests bei Brustkrebs-Diagnose,2,7,1.0,0.9,0.8,0.8,0.8,0.7,0.84
+23,Potenzial der Kohlenstoffspeicherung in Wäldern laut Studie nicht ausgeschöpft,0,0,1.0,0.5,-0.5,0.0,0.5,0.5,0.33
+23,Potenzial der Kohlenstoffspeicherung in Wäldern laut Studie nicht ausgeschöpft,0,1,1.0,0.5,-0.5,0.0,0.0,-0.5,0.08
+23,Potenzial der Kohlenstoffspeicherung in Wäldern laut Studie nicht ausgeschöpft,1,0,0.8,0.6,0.4,0.7,0.6,0.6,0.62
+23,Potenzial der Kohlenstoffspeicherung in Wäldern laut Studie nicht ausgeschöpft,1,1,0.8,0.7,-0.2,0.7,0.2,-0.3,0.31
+23,Potenzial der Kohlenstoffspeicherung in Wäldern laut Studie nicht ausgeschöpft,2,0,1.0,0.5,0.5,1.0,1.0,0.0,0.67
+23,Potenzial der Kohlenstoffspeicherung in Wäldern laut Studie nicht ausgeschöpft,2,1,1.0,1.0,0.0,1.0,0.5,-0.5,0.49
+24,Verjüngung von Eizellen durch Spermidin,0,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+24,Verjüngung von Eizellen durch Spermidin,0,1,1.0,1.0,0.5,1.0,0.5,0.5,0.76
+24,Verjüngung von Eizellen durch Spermidin,0,2,1.0,0.5,1.0,1.0,-0.5,0.5,0.59
+24,Verjüngung von Eizellen durch Spermidin,2,0,1.0,0.8,1.0,1.0,0.8,1.0,0.93
+24,Verjüngung von Eizellen durch Spermidin,2,1,1.0,0.8,0.5,1.0,0.5,0.5,0.72
+24,Verjüngung von Eizellen durch Spermidin,2,2,1.0,0.7,0.8,1.0,0.5,0.5,0.76
+25,Studie: CO<sub>2</sub>-Budget nur halb so groß wie im IPCC-Bericht angegeben,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,Studie: CO<sub>2</sub>-Budget nur halb so groß wie im IPCC-Bericht angegeben,1,0,0.8,,,,,,0.85
+25,Studie: CO<sub>2</sub>-Budget nur halb so groß wie im IPCC-Bericht angegeben,2,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,Krebserkrankungen bei Kindern durch Intensivierung der Landwirtschaft in Brasilien,0,0,1.0,0.8,1.0,0.8,0.6,0.7,0.82
+26,Krebserkrankungen bei Kindern durch Intensivierung der Landwirtschaft in Brasilien,0,1,1.0,0.7,1.0,0.7,0.6,0.7,0.79
+26,Krebserkrankungen bei Kindern durch Intensivierung der Landwirtschaft in Brasilien,0,2,0.9,0.7,0.8,0.6,0.5,0.8,0.72
+26,Krebserkrankungen bei Kindern durch Intensivierung der Landwirtschaft in Brasilien,1,0,1.0,0.7,0.5,0.8,0.6,0.5,0.69
+26,Krebserkrankungen bei Kindern durch Intensivierung der Landwirtschaft in Brasilien,1,1,0.5,-0.2,0.7,0.6,0.0,0.8,0.39
+26,Krebserkrankungen bei Kindern durch Intensivierung der Landwirtschaft in Brasilien,1,2,0.8,0.3,0.7,0.7,0.5,0.6,0.61
+26,Krebserkrankungen bei Kindern durch Intensivierung der Landwirtschaft in Brasilien,2,0,1.0,1.0,0.5,1.0,0.5,0.0,0.67
+26,Krebserkrankungen bei Kindern durch Intensivierung der Landwirtschaft in Brasilien,2,1,1.0,1.0,0.5,1.0,0.5,0.0,0.67
+26,Krebserkrankungen bei Kindern durch Intensivierung der Landwirtschaft in Brasilien,2,2,1.0,1.0,0.5,1.0,0.5,0.0,0.67
+27,Mögliche Umweltschäden durch Ammoniak in der Energiewirtschaft,0,0,1.0,0.8,0.9,0.9,1.0,1.0,0.93
+27,Mögliche Umweltschäden durch Ammoniak in der Energiewirtschaft,0,1,1.0,1.0,1.0,0.8,1.0,0.9,0.95
+27,Mögliche Umweltschäden durch Ammoniak in der Energiewirtschaft,0,2,1.0,1.0,0.7,0.6,0.7,0.8,0.8
+27,Mögliche Umweltschäden durch Ammoniak in der Energiewirtschaft,0,3,1.0,1.0,0.6,0.8,0.7,0.7,0.8
+27,Mögliche Umweltschäden durch Ammoniak in der Energiewirtschaft,0,4,1.0,1.0,1.0,0.8,1.0,1.0,0.97
+27,Mögliche Umweltschäden durch Ammoniak in der Energiewirtschaft,1,0,0.8,0.9,0.7,0.8,0.9,0.8,0.82
+27,Mögliche Umweltschäden durch Ammoniak in der Energiewirtschaft,1,1,0.8,0.9,0.8,0.8,0.9,0.7,0.82
+27,Mögliche Umweltschäden durch Ammoniak in der Energiewirtschaft,1,2,0.8,0.9,0.7,0.7,0.6,0.6,0.72
+27,Mögliche Umweltschäden durch Ammoniak in der Energiewirtschaft,1,3,0.8,1.0,0.7,0.7,0.7,0.6,0.76
+27,Mögliche Umweltschäden durch Ammoniak in der Energiewirtschaft,1,4,1.0,1.0,0.9,0.9,0.9,0.9,0.93
+28,Ein Fünftel der europäischen Tiere und Pflanzen vom Aussterben bedroht,0,0,1.0,1.0,0.5,1.0,0.5,0.5,0.76
+28,Ein Fünftel der europäischen Tiere und Pflanzen vom Aussterben bedroht,0,1,1.0,0.5,0.0,1.0,0.0,-0.5,0.33
+28,Ein Fünftel der europäischen Tiere und Pflanzen vom Aussterben bedroht,2,0,1.0,0.7,1.0,0.8,0.8,0.6,0.82
+28,Ein Fünftel der europäischen Tiere und Pflanzen vom Aussterben bedroht,2,1,1.0,0.4,0.7,0.6,0.6,0.3,0.61
+29,Virusverbreitung bei HPV-Geimpften ,0,0,1.0,1.0,0.5,1.0,0.5,0.5,0.76
+29,Virusverbreitung bei HPV-Geimpften ,0,1,1.0,1.0,0.5,0.5,0.5,0.5,0.67
+29,Virusverbreitung bei HPV-Geimpften ,0,2,1.0,1.0,1.0,1.0,0.5,0.5,0.84
+29,Virusverbreitung bei HPV-Geimpften ,0,3,1.0,1.0,0.5,1.0,0.5,0.5,0.76
+29,Virusverbreitung bei HPV-Geimpften ,1,0,1.0,1.0,0.0,1.0,1.0,0.0,0.67
+29,Virusverbreitung bei HPV-Geimpften ,1,1,1.0,1.0,1.0,1.0,0.0,1.0,0.84
+29,Virusverbreitung bei HPV-Geimpften ,1,2,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+29,Virusverbreitung bei HPV-Geimpften ,1,3,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+29,Virusverbreitung bei HPV-Geimpften ,2,0,1.0,1.0,1.0,0.5,1.0,0.5,0.84
+29,Virusverbreitung bei HPV-Geimpften ,2,1,0.5,1.0,-0.5,0.5,0.0,0.5,0.33
+29,Virusverbreitung bei HPV-Geimpften ,2,2,1.0,1.0,0.5,1.0,1.0,1.0,0.92
+29,Virusverbreitung bei HPV-Geimpften ,2,3,1.0,1.0,0.5,0.5,1.0,0.5,0.76
+30,Nach CT-Scans: Erhöhtes Blutkrebsrisiko bei Kindern,0,0,1.0,0.8,1.0,0.9,0.8,1.0,0.92
+30,Nach CT-Scans: Erhöhtes Blutkrebsrisiko bei Kindern,0,1,1.0,0.7,0.5,0.8,0.6,0.5,0.69
+30,Nach CT-Scans: Erhöhtes Blutkrebsrisiko bei Kindern,0,2,0.8,0.6,-0.2,0.7,0.0,0.3,0.36
+30,Nach CT-Scans: Erhöhtes Blutkrebsrisiko bei Kindern,2,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+30,Nach CT-Scans: Erhöhtes Blutkrebsrisiko bei Kindern,2,1,1.0,1.0,0.0,1.0,0.5,0.5,0.67
+30,Nach CT-Scans: Erhöhtes Blutkrebsrisiko bei Kindern,2,2,1.0,1.0,0.5,1.0,0.0,0.5,0.67
+31,Chimärer Affe geboren,0,0,0.8,0.6,0.7,0.5,0.5,0.4,0.59
+31,Chimärer Affe geboren,1,0,1.0,0.7,0.8,0.5,0.7,0.4,0.69
+31,Chimärer Affe geboren,2,0,1.0,0.5,0.5,0.5,0.5,0.5,0.59
+32,Effekt von Semaglutid auf kardiovaskuläre Erkrankungen,0,0,-0.5,0.3,-0.5,0.2,-0.6,-0.3,-0.23
+32,Effekt von Semaglutid auf kardiovaskuläre Erkrankungen,0,1,0.5,0.6,0.4,0.4,0.3,0.2,0.39
+32,Effekt von Semaglutid auf kardiovaskuläre Erkrankungen,0,2,0.5,0.6,0.4,0.2,0.3,0.3,0.38
+32,Effekt von Semaglutid auf kardiovaskuläre Erkrankungen,0,3,0.8,0.7,0.5,0.5,0.6,0.4,0.59
+32,Effekt von Semaglutid auf kardiovaskuläre Erkrankungen,2,0,-0.5,0.3,-0.7,-0.2,-0.6,-0.8,-0.41
+32,Effekt von Semaglutid auf kardiovaskuläre Erkrankungen,2,1,0.2,0.0,-0.5,0.0,0.1,-0.4,-0.1
+32,Effekt von Semaglutid auf kardiovaskuläre Erkrankungen,2,2,0.1,0.1,-0.2,0.1,0.3,0.0,0.07
+32,Effekt von Semaglutid auf kardiovaskuläre Erkrankungen,2,3,0.6,0.5,0.4,0.5,0.5,0.3,0.46
+33,Genom-editierte Hühner gegen Vogelgrippe resistent,0,0,1.0,0.5,0.5,0.5,1.0,0.5,0.67
+33,Genom-editierte Hühner gegen Vogelgrippe resistent,0,1,1.0,1.0,1.0,0.5,1.0,0.5,0.84
+33,Genom-editierte Hühner gegen Vogelgrippe resistent,2,0,0.8,0.6,0.5,0.4,0.7,0.4,0.58
+33,Genom-editierte Hühner gegen Vogelgrippe resistent,2,1,0.9,0.7,0.6,0.5,0.7,0.6,0.67
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,0,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,0,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,0,2,1.0,0.5,1.0,1.0,1.0,1.0,0.92
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,0,3,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,0,4,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,0,5,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,0,6,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,0,7,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,0,8,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,0,9,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,0,10,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,0,11,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,1,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,1,1,1.0,1.0,1.0,1.0,1.0,0.8,0.97
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,1,2,1.0,1.0,0.5,0.7,1.0,1.0,0.87
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,1,3,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,1,4,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,1,5,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,1,6,1.0,1.0,0.8,0.8,1.0,1.0,0.93
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,1,7,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,1,8,1.0,1.0,0.9,1.0,1.0,1.0,0.98
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,1,9,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,1,10,1.0,1.0,1.0,0.9,1.0,1.0,0.98
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,1,11,1.0,1.0,0.9,1.0,1.0,1.0,0.98
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,2,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,2,1,1.0,1.0,1.0,0.0,1.0,0.5,0.76
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,2,2,0.5,0.5,1.0,0.5,0.5,0.5,0.59
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,2,3,0.5,1.0,1.0,0.0,1.0,0.5,0.67
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,2,4,1.0,1.0,1.0,0.0,1.0,0.5,0.76
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,2,5,1.0,1.0,0.5,0.0,1.0,0.5,0.67
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,2,6,1.0,1.0,1.0,0.0,1.0,0.5,0.76
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,2,7,0.5,0.5,1.0,0.0,1.0,0.5,0.59
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,2,8,1.0,0.5,1.0,1.0,0.5,0.0,0.67
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,2,9,1.0,1.0,1.0,1.0,0.5,1.0,0.92
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,2,10,1.0,0.5,1.0,0.0,0.5,0.5,0.59
+34,Hat eine Änderung der Windrad-Drehrichtung unter bestimmten Windverhältnissen Folgen?,2,11,0.5,1.0,1.0,0.0,0.5,0.5,0.59
+35,Langzeiteffekte von Ebola für Überlebende?,0,0,0.8,0.9,0.6,0.7,0.7,0.6,0.72
+35,Langzeiteffekte von Ebola für Überlebende?,0,1,0.7,0.8,0.6,0.7,0.6,0.6,0.67
+35,Langzeiteffekte von Ebola für Überlebende?,0,2,0.8,0.9,0.7,0.7,0.7,0.7,0.76
+35,Langzeiteffekte von Ebola für Überlebende?,0,3,0.7,0.8,0.6,0.7,0.7,0.6,0.69
+35,Langzeiteffekte von Ebola für Überlebende?,1,0,1.0,1.0,0.5,1.0,1.0,0.5,0.84
+35,Langzeiteffekte von Ebola für Überlebende?,1,1,0.0,0.5,0.0,0.5,0.0,0.5,0.24
+35,Langzeiteffekte von Ebola für Überlebende?,1,2,1.0,1.0,1.0,0.5,1.0,1.0,0.92
+35,Langzeiteffekte von Ebola für Überlebende?,1,3,1.0,0.0,0.5,0.5,1.0,0.0,0.49
+35,Langzeiteffekte von Ebola für Überlebende?,2,0,0.8,0.9,0.7,0.7,0.7,0.6,0.74
+35,Langzeiteffekte von Ebola für Überlebende?,2,1,0.8,0.9,0.5,0.7,0.6,0.5,0.67
+35,Langzeiteffekte von Ebola für Überlebende?,2,2,0.9,0.8,0.8,0.7,0.7,0.7,0.77
+35,Langzeiteffekte von Ebola für Überlebende?,2,3,0.8,0.7,0.6,0.6,0.5,0.5,0.62
+36,Erster Impfstoff gegen Viruskrankheit Chikungunya vor Zulassung,0,0,1.0,0.8,0.6,0.7,0.6,0.5,0.71
+36,Erster Impfstoff gegen Viruskrankheit Chikungunya vor Zulassung,0,1,1.0,0.9,0.7,0.8,0.7,0.7,0.8
+36,Erster Impfstoff gegen Viruskrankheit Chikungunya vor Zulassung,0,2,0.9,0.6,0.7,0.6,0.5,0.4,0.62
+36,Erster Impfstoff gegen Viruskrankheit Chikungunya vor Zulassung,1,0,0.8,0.9,0.7,0.8,0.8,0.6,0.77
+36,Erster Impfstoff gegen Viruskrankheit Chikungunya vor Zulassung,1,1,0.7,0.8,0.6,0.7,0.5,0.5,0.64
+36,Erster Impfstoff gegen Viruskrankheit Chikungunya vor Zulassung,1,2,0.6,0.6,0.4,0.6,0.5,0.4,0.53
+36,Erster Impfstoff gegen Viruskrankheit Chikungunya vor Zulassung,2,0,1.0,1.0,0.5,0.5,0.5,0.5,0.67
+36,Erster Impfstoff gegen Viruskrankheit Chikungunya vor Zulassung,2,1,1.0,1.0,0.5,0.5,0.5,0.0,0.59
+36,Erster Impfstoff gegen Viruskrankheit Chikungunya vor Zulassung,2,2,1.0,0.5,-0.5,0.5,-0.5,-0.5,0.08
+37,Das Ernährungssystem als Netto-Treibhausgassenke?,0,0,0.7,0.5,0.3,0.6,0.2,0.4,0.44
+37,Das Ernährungssystem als Netto-Treibhausgassenke?,0,1,0.6,0.3,0.4,0.5,0.3,0.4,0.41
+37,Das Ernährungssystem als Netto-Treibhausgassenke?,0,2,0.7,0.5,0.4,0.6,0.5,0.6,0.56
+37,Das Ernährungssystem als Netto-Treibhausgassenke?,0,3,0.8,0.7,0.5,0.6,0.6,0.5,0.62
+37,Das Ernährungssystem als Netto-Treibhausgassenke?,1,0,0.8,0.5,0.6,0.7,0.4,0.4,0.58
+37,Das Ernährungssystem als Netto-Treibhausgassenke?,1,1,0.8,0.3,0.5,0.5,0.4,0.5,0.49
+37,Das Ernährungssystem als Netto-Treibhausgassenke?,1,2,0.7,0.4,0.5,0.6,0.6,0.6,0.58
+37,Das Ernährungssystem als Netto-Treibhausgassenke?,1,3,0.9,0.6,0.6,0.8,0.7,0.7,0.72
+37,Das Ernährungssystem als Netto-Treibhausgassenke?,2,0,1.0,0.5,0.0,0.5,-0.5,0.5,0.33
+37,Das Ernährungssystem als Netto-Treibhausgassenke?,2,1,1.0,0.0,-0.5,0.0,-0.5,-0.5,-0.08
+37,Das Ernährungssystem als Netto-Treibhausgassenke?,2,2,1.0,0.5,0.0,0.5,-0.5,0.5,0.33
+37,Das Ernährungssystem als Netto-Treibhausgassenke?,2,3,1.0,0.5,0.5,1.0,0.5,0.5,0.67
+38,"CO<sub>2</sub>-Kompensation durch Waldschutz hält nicht, was sie verspricht",0,0,1.0,1.0,1.0,0.5,1.0,1.0,0.92
+38,"CO<sub>2</sub>-Kompensation durch Waldschutz hält nicht, was sie verspricht",1,0,0.9,0.8,0.7,0.6,0.8,0.7,0.76
+38,"CO<sub>2</sub>-Kompensation durch Waldschutz hält nicht, was sie verspricht",2,0,1.0,0.8,0.9,0.5,0.8,0.9,0.82
+39,Abnehmmedikament Semaglutid hilft bei Herzleiden,0,0,1.0,0.8,0.6,0.4,0.6,-0.2,0.54
+39,Abnehmmedikament Semaglutid hilft bei Herzleiden,0,1,1.0,1.0,0.8,0.8,0.8,0.4,0.8
+39,Abnehmmedikament Semaglutid hilft bei Herzleiden,1,0,0.9,0.8,0.7,0.6,0.7,0.5,0.71
+39,Abnehmmedikament Semaglutid hilft bei Herzleiden,1,1,1.0,0.8,0.8,0.7,0.8,0.7,0.8
+39,Abnehmmedikament Semaglutid hilft bei Herzleiden,2,0,0.9,0.8,0.7,0.8,0.6,0.5,0.72
+39,Abnehmmedikament Semaglutid hilft bei Herzleiden,2,1,0.9,0.8,0.7,0.8,0.7,0.6,0.76
+40,Metastudie sucht nach Ursachen für Insektenrückgang ,0,0,1.0,0.5,0.5,0.5,0.0,0.0,0.41
+40,Metastudie sucht nach Ursachen für Insektenrückgang ,0,1,1.0,1.0,1.0,1.0,1.0,0.5,0.92
+40,Metastudie sucht nach Ursachen für Insektenrückgang ,0,2,1.0,1.0,1.0,1.0,1.0,0.5,0.92
+40,Metastudie sucht nach Ursachen für Insektenrückgang ,0,3,1.0,1.0,0.5,1.0,0.5,0.0,0.67
+40,Metastudie sucht nach Ursachen für Insektenrückgang ,1,0,0.8,0.7,0.5,0.6,0.4,0.3,0.56
+40,Metastudie sucht nach Ursachen für Insektenrückgang ,1,1,1.0,1.0,1.0,0.9,0.8,0.7,0.9
+40,Metastudie sucht nach Ursachen für Insektenrückgang ,1,2,0.9,1.0,0.9,0.7,0.9,0.6,0.84
+40,Metastudie sucht nach Ursachen für Insektenrückgang ,1,3,0.8,0.8,0.6,0.5,0.4,0.3,0.58
+40,Metastudie sucht nach Ursachen für Insektenrückgang ,2,0,1.0,0.8,0.6,0.5,0.4,0.3,0.61
+40,Metastudie sucht nach Ursachen für Insektenrückgang ,2,1,1.0,1.0,1.0,0.0,0.8,0.6,0.74
+40,Metastudie sucht nach Ursachen für Insektenrückgang ,2,2,1.0,1.0,1.0,1.0,1.0,0.8,0.97
+40,Metastudie sucht nach Ursachen für Insektenrückgang ,2,3,1.0,0.8,0.4,0.4,0.2,0.2,0.51
+41,Gehirn-Computer-Schnittstellen helfen Gelähmten zu sprechen,0,0,1.0,0.5,0.5,1.0,0.5,1.0,0.76
+41,Gehirn-Computer-Schnittstellen helfen Gelähmten zu sprechen,0,1,1.0,-0.5,0.5,0.5,-0.5,0.5,0.24
+41,Gehirn-Computer-Schnittstellen helfen Gelähmten zu sprechen,0,2,1.0,0.0,0.5,0.5,0.5,-0.5,0.33
+41,Gehirn-Computer-Schnittstellen helfen Gelähmten zu sprechen,0,3,1.0,0.0,0.5,0.5,0.0,0.0,0.33
+41,Gehirn-Computer-Schnittstellen helfen Gelähmten zu sprechen,2,0,1.0,0.5,1.0,0.5,0.5,0.5,0.67
+41,Gehirn-Computer-Schnittstellen helfen Gelähmten zu sprechen,2,1,1.0,0.0,1.0,-0.5,-1.0,0.5,0.16
+41,Gehirn-Computer-Schnittstellen helfen Gelähmten zu sprechen,2,2,1.0,0.5,0.5,0.0,-0.5,0.0,0.24
+41,Gehirn-Computer-Schnittstellen helfen Gelähmten zu sprechen,2,3,1.0,0.5,0.5,0.0,0.5,0.5,0.49
+42,Kritik an Studie zum baldigen Kollaps des Golfstroms,0,0,1.0,1.0,0.5,0.5,0.5,0.5,0.67
+42,Kritik an Studie zum baldigen Kollaps des Golfstroms,0,1,1.0,1.0,1.0,0.5,0.5,0.5,0.76
+42,Kritik an Studie zum baldigen Kollaps des Golfstroms,0,2,1.0,1.0,0.5,0.5,0.5,0.5,0.67
+42,Kritik an Studie zum baldigen Kollaps des Golfstroms,1,0,1.0,0.8,0.6,0.4,0.7,0.5,0.67
+42,Kritik an Studie zum baldigen Kollaps des Golfstroms,1,1,1.0,0.8,0.8,0.6,0.7,0.6,0.76
+42,Kritik an Studie zum baldigen Kollaps des Golfstroms,1,2,0.8,0.7,0.7,0.5,0.5,0.4,0.61
+42,Kritik an Studie zum baldigen Kollaps des Golfstroms,2,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+42,Kritik an Studie zum baldigen Kollaps des Golfstroms,2,1,1.0,1.0,1.0,1.0,0.5,0.5,0.84
+42,Kritik an Studie zum baldigen Kollaps des Golfstroms,2,2,1.0,1.0,0.5,1.0,1.0,0.5,0.84
+43,Affen überlebten bis zu zwei Jahre mit transplantierten Schweine-Nieren,1,0,0.8,0.8,0.5,0.5,0.7,0.6,0.66
+43,Affen überlebten bis zu zwei Jahre mit transplantierten Schweine-Nieren,1,1,0.9,0.8,0.7,0.6,0.7,0.4,0.69
+43,Affen überlebten bis zu zwei Jahre mit transplantierten Schweine-Nieren,1,2,0.8,0.7,0.6,0.5,0.6,0.5,0.62
+43,Affen überlebten bis zu zwei Jahre mit transplantierten Schweine-Nieren,2,0,1.0,0.7,0.0,0.5,0.0,0.3,0.41
+43,Affen überlebten bis zu zwei Jahre mit transplantierten Schweine-Nieren,2,1,1.0,0.7,0.5,0.5,0.3,0.2,0.54
+43,Affen überlebten bis zu zwei Jahre mit transplantierten Schweine-Nieren,2,2,1.0,0.7,0.3,0.5,0.2,0.2,0.47
+44,Menstruationszyklus bestimmt Insulinsensitivität im Gehirn,0,0,1.0,0.5,1.0,0.5,1.0,0.5,0.76
+44,Menstruationszyklus bestimmt Insulinsensitivität im Gehirn,0,1,1.0,1.0,1.0,0.5,0.5,0.75,0.8
+44,Menstruationszyklus bestimmt Insulinsensitivität im Gehirn,1,0,1.0,0.5,1.0,0.5,0.5,-0.5,0.49
+44,Menstruationszyklus bestimmt Insulinsensitivität im Gehirn,1,1,1.0,1.0,1.0,1.0,1.0,0.5,0.92
+44,Menstruationszyklus bestimmt Insulinsensitivität im Gehirn,2,0,0.8,0.5,0.6,0.7,0.7,0.6,0.66
+44,Menstruationszyklus bestimmt Insulinsensitivität im Gehirn,2,1,0.8,0.8,0.7,0.7,0.6,0.6,0.71
+45,Methodische Fallstricke bei Long-COVID-Forschung?,0,0,1.0,0.0,0.5,0.5,1.0,0.5,0.59
+45,Methodische Fallstricke bei Long-COVID-Forschung?,0,1,0.5,0.5,0.0,0.5,0.5,0.0,0.33
+45,Methodische Fallstricke bei Long-COVID-Forschung?,0,2,-0.5,0.0,0.0,0.0,0.5,-0.5,-0.08
+45,Methodische Fallstricke bei Long-COVID-Forschung?,0,3,0.5,0.0,-0.5,0.0,0.0,-0.5,-0.08
+45,Methodische Fallstricke bei Long-COVID-Forschung?,0,4,0.0,0.5,0.5,0.0,0.5,0.0,0.24
+45,Methodische Fallstricke bei Long-COVID-Forschung?,0,5,-0.5,0.0,0.0,0.0,-0.5,0.0,-0.16
+45,Methodische Fallstricke bei Long-COVID-Forschung?,1,0,1.0,0.9,0.8,1.0,0.9,1.0,0.93
+45,Methodische Fallstricke bei Long-COVID-Forschung?,1,1,1.0,0.7,0.5,0.7,1.0,0.7,0.77
+45,Methodische Fallstricke bei Long-COVID-Forschung?,1,2,0.9,0.8,0.7,0.9,0.8,0.6,0.79
+45,Methodische Fallstricke bei Long-COVID-Forschung?,1,3,0.8,0.6,0.4,0.7,0.5,0.5,0.59
+45,Methodische Fallstricke bei Long-COVID-Forschung?,1,4,0.8,0.5,0.6,0.6,0.7,0.6,0.64
+45,Methodische Fallstricke bei Long-COVID-Forschung?,1,5,0.7,0.5,0.5,0.5,0.5,0.5,0.54
+46,Erklärt das Wetter den Insektenrückgang?,0,0,0.8,0.5,-0.5,0.2,-0.7,-0.6,-0.05
+46,Erklärt das Wetter den Insektenrückgang?,0,1,0.8,0.5,0.0,0.2,-0.5,0.0,0.16
+46,Erklärt das Wetter den Insektenrückgang?,1,0,-0.5,0.0,-0.8,-0.5,-0.7,-0.8,-0.56
+46,Erklärt das Wetter den Insektenrückgang?,1,1,0.5,0.7,0.0,0.0,-0.5,-0.2,0.08
+46,Erklärt das Wetter den Insektenrückgang?,2,0,-0.5,0.0,-0.5,0.0,-0.5,-0.5,-0.33
+46,Erklärt das Wetter den Insektenrückgang?,2,1,0.2,0.5,-0.2,0.0,-0.2,0.0,0.05
+47,Umverteilung von Dünger könnte Stickstoff-Problem lösen und Welternährung sichern,0,0,1.0,0.5,0.5,0.5,0.5,0.5,0.59
+47,Umverteilung von Dünger könnte Stickstoff-Problem lösen und Welternährung sichern,0,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+47,Umverteilung von Dünger könnte Stickstoff-Problem lösen und Welternährung sichern,0,2,1.0,1.0,0.5,0.5,0.5,0.5,0.67
+47,Umverteilung von Dünger könnte Stickstoff-Problem lösen und Welternährung sichern,1,0,0.5,0.3,0.2,0.5,0.6,0.3,0.39
+47,Umverteilung von Dünger könnte Stickstoff-Problem lösen und Welternährung sichern,1,1,0.9,0.7,0.8,0.8,0.6,0.9,0.79
+47,Umverteilung von Dünger könnte Stickstoff-Problem lösen und Welternährung sichern,1,2,0.8,0.7,0.6,0.7,0.6,0.8,0.71
+47,Umverteilung von Dünger könnte Stickstoff-Problem lösen und Welternährung sichern,2,0,1.0,0.5,0.0,0.5,0.5,0.0,0.41
+47,Umverteilung von Dünger könnte Stickstoff-Problem lösen und Welternährung sichern,2,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+47,Umverteilung von Dünger könnte Stickstoff-Problem lösen und Welternährung sichern,2,2,1.0,1.0,0.5,1.0,0.5,1.0,0.84
+48,Hygiene doch kein Auslöser für Allergien?,0,0,-0.5,-0.5,0.0,0.0,-0.5,-0.5,-0.33
+48,Hygiene doch kein Auslöser für Allergien?,0,1,0.0,0.5,0.0,0.5,0.0,0.5,0.24
+48,Hygiene doch kein Auslöser für Allergien?,0,2,0.5,0.0,0.0,-0.5,0.0,-0.5,-0.08
+48,Hygiene doch kein Auslöser für Allergien?,0,3,0.5,0.5,0.5,0.5,0.0,0.5,0.41
+48,Hygiene doch kein Auslöser für Allergien?,0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+48,Hygiene doch kein Auslöser für Allergien?,0,5,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+48,Hygiene doch kein Auslöser für Allergien?,1,0,0.8,0.4,-0.2,0.5,-0.3,-0.5,0.11
+48,Hygiene doch kein Auslöser für Allergien?,1,1,0.7,0.6,0.3,0.4,0.5,-0.3,0.36
+48,Hygiene doch kein Auslöser für Allergien?,1,2,0.6,0.5,0.1,0.4,0.2,-0.2,0.26
+48,Hygiene doch kein Auslöser für Allergien?,1,3,0.5,0.3,0.4,0.5,0.3,0.0,0.33
+48,Hygiene doch kein Auslöser für Allergien?,1,4,0.6,0.3,0.4,0.5,0.2,0.0,0.33
+48,Hygiene doch kein Auslöser für Allergien?,1,5,0.9,0.6,0.7,0.6,0.5,0.4,0.62
+48,Hygiene doch kein Auslöser für Allergien?,2,0,-0.3,-0.4,-0.2,0.3,-0.7,-0.5,-0.29
+48,Hygiene doch kein Auslöser für Allergien?,2,1,0.6,0.5,0.4,0.4,0.3,0.3,0.41
+48,Hygiene doch kein Auslöser für Allergien?,2,2,0.3,0.6,0.1,0.5,0.2,0.2,0.31
+48,Hygiene doch kein Auslöser für Allergien?,2,3,0.5,0.7,0.5,0.4,0.6,0.4,0.53
+48,Hygiene doch kein Auslöser für Allergien?,2,4,0.2,0.6,0.5,0.3,0.2,0.3,0.34
+48,Hygiene doch kein Auslöser für Allergien?,2,5,1.0,1.0,0.8,0.9,0.8,1.0,0.92
+49,Ecstasy-Wirkstoff unterstützt die Behandlung von Posttraumatischer Belastungsstörung,1,0,1.0,1.0,1.0,0.5,1.0,1.0,0.92
+49,Ecstasy-Wirkstoff unterstützt die Behandlung von Posttraumatischer Belastungsstörung,1,1,1.0,0.5,0.5,0.5,0.5,0.5,0.59
+49,Ecstasy-Wirkstoff unterstützt die Behandlung von Posttraumatischer Belastungsstörung,1,2,1.0,0.5,1.0,1.0,1.0,1.0,0.92
+49,Ecstasy-Wirkstoff unterstützt die Behandlung von Posttraumatischer Belastungsstörung,1,3,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+49,Ecstasy-Wirkstoff unterstützt die Behandlung von Posttraumatischer Belastungsstörung,1,4,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+49,Ecstasy-Wirkstoff unterstützt die Behandlung von Posttraumatischer Belastungsstörung,2,0,1.0,1.0,0.5,1.0,0.5,1.0,0.84
+49,Ecstasy-Wirkstoff unterstützt die Behandlung von Posttraumatischer Belastungsstörung,2,1,0.5,0.5,0.5,0.5,0.5,-0.5,0.33
+49,Ecstasy-Wirkstoff unterstützt die Behandlung von Posttraumatischer Belastungsstörung,2,2,1.0,1.0,1.0,0.5,1.0,0.5,0.84
+49,Ecstasy-Wirkstoff unterstützt die Behandlung von Posttraumatischer Belastungsstörung,2,3,1.0,1.0,0.5,0.5,1.0,0.5,0.76
+49,Ecstasy-Wirkstoff unterstützt die Behandlung von Posttraumatischer Belastungsstörung,2,4,1.0,1.0,1.0,0.5,1.0,1.0,0.92
